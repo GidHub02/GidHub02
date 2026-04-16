@@ -1,16 +1,8 @@
-## Hi there 👋
-
+##
 <!--
 **GidHub02/GidHub02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on becoming a Data Science Specialist
-- 🌱 I’m currently learning Data Engineering Fundamentals
-- 👯 I’m looking to collaborate on anthing related to data.
-- 🤔 I’m looking for help with escaping from "Tech enthuasism" trap
-- 💬 Ask me about anything that we can discuss.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
+<!--
 # 💫 About Me:
 I'm working on becoming a Data Science Specialist, with specific interest on Data Engineering<br>as a Path towards Much related to Data. Also I'm a Tech Enthuasist, exploring various technologies<br>Concepts, gadgets is a habit i can't free myself from.<br>
 
@@ -34,6 +26,98 @@ I'm working on becoming a Data Science Specialist, with specific interest on Dat
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GidHub02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  -->
 
 
+
+
+
+
+
+<h1 align="center">Hello, I am Gideon Machumu 🪖👨🏽‍🦲<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h3 align="center">A Senior Student of Data Science|| Data Engineer</h3>
+
+- 🔭 I’m currently working on becoming a Data Science Specialist.
+- 👯 I’m looking to collaborate on anything related to data.
+- 🤔 I’m looking for help to escape "Tech enthuasism" trap 🤣
+- 💬 Ask me about anything that we can discuss.
+- 😄 Pronouns: He/Him
+  
+<p align="center">
+  <a href="machumugideon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gidionmachum" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
+
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 About Gideon.</h3></legend>
+
+  <em>
+I am a Data engineer and a senior student of Data Science at <strong>EASTC</strong> na <strong>Fatec Mogi das Cruzes</strong>. I have a deep technology enthuasism that started way back during the ages of gaming with cheatcodes. Through online resources and youtube tutorials, i have gained a solid foundation that helps me to navigate various technological landscape especially in software and Data.
+  I like experimenting with new technologies, building small projects, and occassionally joining hackathons
+  </em> 
+  <br>
+<div align= "center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Technologies I use and familiar with;</i></b> 
+</div>
+
+<br>
+  
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Programming</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />6
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+          
+  </kbd>
+  <kbd>
+    <kbd>Extras</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+          
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</div>
+
+<div align="left">
+  <a href="https://github.com/GidHub02">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GidHUb02&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GidHub02&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  </a>
+</div>
+
+<br>
+<br>
+
+- 📫 Contact: **machumugideon@gmail.com**
+
+<p align="center"> 
