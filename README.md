@@ -55,8 +55,7 @@ I'm working on becoming a Data Science Specialist, with specific interest on Dat
   <legend align="left"><h3>👩🏻‍💻 About Gideon.</h3></legend>
 
   <em>
-I am a Data engineer and a senior student of Data Science at <strong>EASTC</strong> . I have a deep technology enthuasism that started way back during the ages of gaming with cheatcodes. Through online resources and youtube tutorials, i have gained a solid foundation that helps me to navigate various technological landscape especially in software and Data.
-  I like experimenting with new technologies, building small projects, and occassionally joining hackathons
+I am a <strong>Data Engineer</strong> and a senior Data Science student at <strong>EASTC</strong>. My passion for technology began early, tinkering with video game cheat codes sparked a lifelong curiosity about how digital systems work behind the scenes. Today, I channel that same investigative energy into data engineering and software development. Driven by relentless self-directed learning, I have built a solid technical foundation that allows me to navigate complex data landscapes. I thrive on continuous growth, whether I'm experimenting with emerging technologies, building independent projects or collaborating with others in hackathons.
   </em> 
   <br>
 <div align= "center">
