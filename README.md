@@ -108,16 +108,13 @@ I am a Data engineer and a senior student of Data Science at <strong>EASTC</stro
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 </div>
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/GidHub02">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GidHUb02&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GidHub02&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
   </a>
-</div>
-
+</div> -->
 <br>
-<br>
-
 - 📫 Contact: **machumugideon@gmail.com**
 
 <p align="center"> 
