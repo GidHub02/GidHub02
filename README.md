@@ -55,7 +55,7 @@ I'm working on becoming a Data Science Specialist, with specific interest on Dat
   <legend align="left"><h3>👩🏻‍💻 About Gideon.</h3></legend>
 
   <em>
-I am a Data engineer and a senior student of Data Science at <strong>EASTC</strong> na <strong>Fatec Mogi das Cruzes</strong>. I have a deep technology enthuasism that started way back during the ages of gaming with cheatcodes. Through online resources and youtube tutorials, i have gained a solid foundation that helps me to navigate various technological landscape especially in software and Data.
+I am a Data engineer and a senior student of Data Science at <strong>EASTC</strong> . I have a deep technology enthuasism that started way back during the ages of gaming with cheatcodes. Through online resources and youtube tutorials, i have gained a solid foundation that helps me to navigate various technological landscape especially in software and Data.
   I like experimenting with new technologies, building small projects, and occassionally joining hackathons
   </em> 
   <br>
