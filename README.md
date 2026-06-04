@@ -34,7 +34,7 @@ I'm working on becoming a Data Science Specialist, with specific interest on Dat
 
 
 
-<h1 align="center">Hello, I am Gideon Machumu 🪖👨🏽‍🦲<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h1 align="center">Hello, I am Gideon M. 🪖👨🏽‍🦲<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
 <h3 align="center">A Senior Student of Data Science|| Data Engineer</h3>
 
 - 🔭 I’m currently working on becoming a Data Science Specialist.
